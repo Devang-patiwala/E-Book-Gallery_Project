@@ -42,9 +42,9 @@ CREATE TABLE `address` (
 --
 
 INSERT INTO `address` (`address_id`, `custid`, `address`, `state`, `country`, `pincode`, `contactno`) VALUES
-(8, 9, 'Blinky Balcony,\r\nmeera Road,\r\nMaharastra', '745', '100', '602365', '7894561230'),
-(9, 8, '3rd floor,\r\ncity light', '241', '2', '575220', '9874563210'),
-(10, 10, '3rd floor,\r\ncity dots', '742', '100', '575001', '9874563231');
+(8, 9, 'shivranjani,\r\nnaherunagar Road,\r\ngujarat', '745', '100', '380015', '7878787878'),
+(9, 8, '3rd floor,\r\ncity light', '241', '2', '380015', '9090909090'),
+(10, 10, '3rd floor,\r\ncity dots', '742', '100', '380015', '9974939566');
 
 -- --------------------------------------------------------
 
