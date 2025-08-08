@@ -66,9 +66,9 @@ CREATE TABLE `administrator` (
 --
 
 INSERT INTO `administrator` (`admin_id`, `name`, `login_id`, `a_password`, `email_id`, `contactno`) VALUES
-(1, 'administrator', 'admin', 'adminadminadmin', 'admmin@yahoo.com', '9876543210'),
-(2, 'Rajkumar', 'raj', 'rajrajraj', 'raj@gmail.com', '9874563210'),
-(3, 'atkison', 'atkison', 'atkisonatkisonatkison', 'atkison@gmail.com', '7894561230');
+(1, 'administrator', 'admin', 'adminadminadmin', 'admin@gmail.com', '9090909090'),
+(2, 'devang', 'devang', 'devang', 'devang@gmail.com', '9974939565'),
+(3, 'mayur', 'mayur', 'mayur chauhan', 'mayur@gmail.com', '7878787878');
 
 -- --------------------------------------------------------
 
